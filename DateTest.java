@@ -1,5 +1,6 @@
-import java.util.Scanner;
-public class DateTest {
+
+import java.util.scanner;
+public class DateTest{
 
 	/**
 	 * @param args
