@@ -1,4 +1,4 @@
-package Datetime
+package Datetime;
 public class Date {
 	
 	private int day;
