@@ -1,4 +1,4 @@
-package Duplicate;
+package arrayDuplicate;
 import java.util.*;
 public class DuplicateElimination {
 
